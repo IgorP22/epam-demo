@@ -1,2 +1,2 @@
-Первая строчка
-Вторая строчка
+First line
+Second line
