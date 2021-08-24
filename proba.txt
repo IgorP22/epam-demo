@@ -1,6 +1,4 @@
 First line
+Second line
 Third line
 Fourth line
-
-Line number 6
-Line number 7
